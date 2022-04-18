@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @laviniaaaf
-
+- 👋 Hi, I’m @laviniaaaf.
+- 🌱 I’m currently learning programming ...
 
 <!---
 laviniaaaf/laviniaaaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
