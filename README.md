@@ -5,6 +5,8 @@
 - 📚 Sou estudante de Ciência da Computação, empenhada em expandir meu conhecimento e habilidades.
 - 🔭 Sempre em busca de novos projetos e oportunidades para aplicar o que aprendi e crescer como desenvolvedora.
 
+## My Skills
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
