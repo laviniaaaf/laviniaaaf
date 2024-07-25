@@ -1,6 +1,6 @@
 ## Olá, bem-vindo(a) ao meu perfil do GitHub! 👋
 
-- Sou @laviniaaaf. 🚀
+- Me chamo Lavínia 🚀
 - 🌱 Atualmente, estou mergulhando no fascinante mundo da programação e aprendendo novas tecnologias a cada dia.
 - 📚 Sou estudante de Ciência da Computação, empenhada em expandir meu conhecimento e habilidades.
 - 🔭 Sempre em busca de novos projetos e oportunidades para aplicar o que aprendi e crescer como desenvolvedora.
@@ -30,7 +30,7 @@
 
 <div>
   <a href=" ">
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=laviniaaaf&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=laviniaaaf&theme=radical&show_icons=true&include_all_commits=true"/>
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniaaaf&layout=compact&langs_count=16&show_icons=true&theme=radical&include_all_commits=true"/>
 </div>
 
