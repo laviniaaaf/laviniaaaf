@@ -2,7 +2,7 @@
 
 - Me chamo Lavínia 🚀
 - 🌱 Atualmente, estou mergulhada no fascinante mundo da programação e aprendendo novas tecnologias a cada dia.
-- 📚 Sou estudante de Ciência da Computação, empenhada em expandir meu conhecimento e habilidades e residente de software em Ciência de Dados.
+- 📚 Sou estudante de Ciência da Computação e residente de software em Ciência de Dados.
 - 🔭 Sempre em busca de novos projetos e oportunidades para aplicar o que aprendi e crescer como desenvolvedora.
 
 ## My Skills
