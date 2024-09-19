@@ -1,4 +1,4 @@
-## Olá, bem-vindo(a) ao meu perfil do GitHub! 👋
+## Olá, pessoal. Bem-vindo ao meu perfil do GitHub! 👋
 
 - Me chamo Lavínia 🚀
 - 🌱 Atualmente, estou mergulhada no fascinante mundo da programação e aprendendo novas tecnologias a cada dia.
