@@ -3,7 +3,7 @@
 </div>
 
 - 👩‍💻 Cientista da Computação e residente de software em Ciência de Dados.
-- 🐍 Desenvolvedora backend com +1 ano de experiência profissonal com Python.
+- 🐍 Desenvolvedora backend com +1 ano de experiência profissional com Python.
 - 🌱 Estou sempre aprendendo novas tecnologias e me mantendo atualizada no mundo da programação.
 - 🔭 Busco constantemente novos desafios e oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedora.
 
