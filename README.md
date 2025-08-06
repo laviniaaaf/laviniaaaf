@@ -2,10 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738EE&width=435&lines=Ol%C3%A1+pessoal%2C+eu+sou+Lav%C3%ADnia+%3A)" alt="Typing SVG" /></a>
 </div>
 
-
-- 🌱 Atualmente, estou mergulhada no fascinante mundo da programação e aprendendo novas tecnologias a cada dia.
-- 📚 Sou estudante de Ciência da Computação e residente de software em Ciência de Dados.
-- 🔭 Sempre em busca de novos projetos e oportunidades para aplicar o que aprendi e crescer como desenvolvedora.
+- 👩‍💻 Cientista da Computação e residente de software em Ciência de Dados.
+- 🐍 Desenvolvedora backend com +1 ano de experiência profissonal com Python.
+- 🌱 Estou sempre aprendendo novas tecnologias e me mantendo atualizada no mundo da programação.
+- 🔭 Busco constantemente novos desafios e oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedora.
 
 ## My Skills
 
@@ -28,7 +28,7 @@
 
 <div align="center">
    <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lavinia-fahning-277b77270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/lavinia-f-277b77270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
