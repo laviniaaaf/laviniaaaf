@@ -2,10 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738EE&width=435&lines=Ol%C3%A1+pessoal%2C+eu+sou+Lav%C3%ADnia+%3A)" alt="Typing SVG" /></a>
 </div>
 
-- 👩‍💻 Cientista da Computação e residente de software em Ciência de Dados.
-- 🐍 Desenvolvedora backend com +1 ano de experiência profissional com Python.
-- 🌱 Estou sempre aprendendo novas tecnologias e me mantendo atualizada no mundo da programação.
-- 🔭 Busco constantemente novos desafios e oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedora.
+- 👩‍💻 Computer Scientist and Software Resident in Data Science.
+- 🐍 Backend Developer with 1+ year of professional experience in Python.
+- 🌱 Always learning new technologies and staying up to date in the programming world.
+- 🔭 Constantly seeking new challenges and opportunities to apply my knowledge and grow as a developer.
 
 ## My Skills
 
@@ -20,7 +20,6 @@
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>       
   <img align="center" alt="Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>  
   <img align="right" alt="Lavi-gif" height="130" width="150" src="https://cdn.discordapp.com/attachments/1032791939231272991/1248799597237768274/Design_sem_nome1.gif?ex=6664fac1&is=6663a941&hm=233d8efd1d10cc6ca9f34f337afdd04de158e3706c3c0131cb193229920fdc62&">        
 </div>
 
