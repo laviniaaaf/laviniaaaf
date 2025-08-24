@@ -40,6 +40,10 @@
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviniaaaf&layout=compact&langs_count=16&show_icons=true&theme=radical&include_all_commits=true"/>
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <!---
 laviniaaaf/laviniaaaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
