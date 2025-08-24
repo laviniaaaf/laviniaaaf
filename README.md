@@ -7,6 +7,8 @@
 - 🌱 Always learning new technologies and staying up to date in the programming world.
 - 🔭 Constantly seeking new challenges and opportunities to apply my knowledge and grow as a developer.
 
+![GitHub User's stars](https://img.shields.io/github/stars/laviniaaaf)
+
 ## My Skills
 
 <div style="display: inline_block" align="center"><br>
